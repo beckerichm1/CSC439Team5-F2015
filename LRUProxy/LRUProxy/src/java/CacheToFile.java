@@ -125,3 +125,4 @@ public class CacheToFile
 		return url.replaceAll("/", ".");
 	}
 }
+System.out.println("This is a test");
