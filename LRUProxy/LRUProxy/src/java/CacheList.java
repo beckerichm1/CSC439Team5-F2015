@@ -26,7 +26,7 @@ import java.util.LinkedList;
  */
 public class CacheList 
 {
-	
+	//Edited by Matthew Beckerich
 	private CacheLog log; // not used yet
 	private LinkedList<String> linkedList;
 	private int maxSize;
